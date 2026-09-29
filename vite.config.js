@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/Site-Vinci/',
+  base: '/Vincisite/',
   plugins: [vue()],
 })
